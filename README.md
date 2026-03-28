@@ -48,10 +48,11 @@ Key Insights
 ![Dashboard](Dashboard_Screenshot.png)
 
 How to Use
-Download the Excel file from this repository
-Open in Microsoft Excel
-Use slicers to filter data dynamically
-Explore insights from charts and KPIs
+
+- Download the Excel file from this repository
+- Open in Microsoft Excel
+- Use slicers to filter data dynamically
+- Explore insights from charts and KPIs
 
 ## 📁 Project Structure
 Sales-Dashboard-Excel/
@@ -64,10 +65,11 @@ Sales-Dashboard-Excel/
 - Sales peak in Q4
 
 Future Improvements
-Add advanced Excel formulas (Power Query / Power Pivot)
-Automate data updates
-Connect dashboard to live data source
-Improve visual design
+
+- Add advanced Excel formulas (Power Query / Power Pivot)
+- Automate data updates
+- Connect dashboard to live data source
+- Improve visual design
 
 LinkedIn: www.linkedin.com/in/chaithanya-p-2631a2199
 Email: chaithanyap48@gmail.com
