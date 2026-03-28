@@ -1,43 +1,48 @@
 # Sales-Dashboard-Excel
 Project Overview
+
 This project showcases an interactive Excel dashboard built to analyze and visualize sales performance data.
 The dashboard helps in identifying trends, comparing regions, and tracking key business metrics.
 
 Objective
-The goal of this project is to:
-Analyze sales data effectively
-Create interactive visualizations using Excel
-Provide actionable business insights
+
+- The goal of this project is to:
+- Analyze sales data effectively
+- Create interactive visualizations using Excel
+- Provide actionable business insights
 
 Tools & Skills Used
-Microsoft Excel
-Pivot Tables
-Pivot Charts
-Slicers & Filters
-Data Cleaning & Transformation
-KPI Metrics
+
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Slicers & Filters
+- Data Cleaning & Transformation
+- KPI Metrics
 
 Dataset
-Source: Kaggle
-Features:
-Sales Amount
-Region
-Product Category
-Date
-Customer Segment
+
+- Source: Kaggle
+- Features:
+* Sales Amount
+* Region
+* Product Category
+* Date
+* Customer Segment
 
 Dashboard Features
-Interactive filters using slicers
-Region-wise and product-wise analysis
-KPI indicators (Total Sales, Profit, Growth)
-Trend analysis over time
-Easy-to-understand visual layout
+
+- Interactive filters using slicers
+- Region-wise and product-wise analysis
+- KPI indicators (Total Sales, Profit)
+- Trend analysis over time
+- Easy-to-understand visual layout
 
 Key Insights
-Region X generated the highest revenue
-Product category Y showed declining performance
-Sales peaked during specific months/quarters
-Customer segment Z contributes the most profit
+
+- West region contributes the highest sales (~38% of total revenue)
+- Technology category generates the highest profit margins
+- Sales show a strong upward trend in Q4, indicating seasonal demand
 
 ## 🖼️ Dashboard Preview
 ![Dashboard](Dashboard_Screenshot.png)
