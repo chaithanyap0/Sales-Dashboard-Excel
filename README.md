@@ -1,4 +1,4 @@
-# Sales-Dashboard-Excel
+# Sales Dashboard Excel
 Project Overview
 
 This project showcases an interactive Excel dashboard built to analyze and visualize sales performance data.
